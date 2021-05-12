@@ -1,5 +1,5 @@
 # Learn-Shiny-App
-Few days ago, my dad asked me to help him calculate the area of triangle by given length of three of sides.
+Few days ago, my dad asked me to help him calculate the area of triangle by given length of three sides.
 
 I searched formular online and calculated it for him. 
 
