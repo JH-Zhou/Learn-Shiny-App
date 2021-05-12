@@ -1,0 +1,14 @@
+# Learn-Shiny-App
+Few days ago, my dad asked me to help him calculate the area of triangle by given length of three of sides.
+
+I searched formular online and calculated it for him. 
+
+One day later, he asked me to calculate another triangle area, and that motivitaed me to write an interactive tool to him to calculate it by himself. 
+
+The formular is simple but still inconvenient to calculate it on celephone.
+
+Therefore, I decide to start to learn Shiny App to write the simple application.
+
+And here is the output.
+
+[Triangular area calculator](https://jh-bio.shinyapps.io/triangle_area/)
